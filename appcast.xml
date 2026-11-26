@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Tangent</title>
+        <link>https://raw.githubusercontent.com/aeronautdeveloper/TangentSparkleUpdate/main/appcast.xml</link>
+        <description>Tangent updates from Aeronaut Automation</description>
+        <language>en</language>
+        <!-- No releases yet. generate_appcast adds an <item> here for each signed release zip. -->
+    </channel>
+</rss>
