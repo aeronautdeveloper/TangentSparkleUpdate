@@ -1,10 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Tangent</title>
         <link>https://raw.githubusercontent.com/aeronautdeveloper/TangentSparkleUpdate/main/appcast.xml</link>
         <description>Tangent updates from Aeronaut Automation</description>
         <language>en</language>
         <!-- No releases yet. generate_appcast adds an <item> here for each signed release zip. -->
+        <item>
+            <title>24</title>
+            <pubDate>Thu, 26 Nov 2026 16:04:23 +1100</pubDate>
+            <sparkle:version>260002</sparkle:version>
+            <sparkle:shortVersionString>24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aeronautdeveloper/TangentSparkleUpdate/releases/download/260002/Tangent-260002.zip" length="85333575" type="application/octet-stream" sparkle:edSignature="4+I0eLDq4+CgijZ1gvYY7h8D78ipehMqkUZ2/TpCXeNzPKYifcdNK5uQ4wlYluUrzqQaJe5Wxxe0rfISW8FmBw=="/>
+        </item>
     </channel>
 </rss>
